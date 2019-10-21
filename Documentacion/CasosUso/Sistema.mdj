@@ -11356,12 +11356,12 @@
 										"$ref": "AAAAAAFt5P1vouHqqQE="
 									},
 									"font": "Arial;13;0",
-									"left": 611,
-									"top": 368,
+									"left": 679,
+									"top": 335,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": 3.4155433120332255,
+									"distance": 62.07253821135398,
 									"hostEdge": {
 										"$ref": "AAAAAAFt5P1vouHsIRU="
 									},
