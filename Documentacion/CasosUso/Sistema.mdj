@@ -8779,8 +8779,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -216,
-									"top": 184,
+									"left": -112,
+									"top": 200,
 									"width": 10,
 									"height": 10
 								},
@@ -8795,8 +8795,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -216,
-									"top": 184,
+									"left": -112,
+									"top": 200,
 									"width": 10,
 									"height": 10
 								},
@@ -8811,8 +8811,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -216,
-									"top": 184,
+									"left": -112,
+									"top": 200,
 									"width": 10,
 									"height": 10
 								},
@@ -8827,8 +8827,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -216,
-									"top": 184,
+									"left": -112,
+									"top": 200,
 									"width": 10,
 									"height": 10
 								},
@@ -8843,8 +8843,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": -216,
-									"top": 184,
+									"left": -112,
+									"top": 200,
 									"width": 10,
 									"height": 10
 								}
@@ -10321,12 +10321,12 @@
 										"$ref": "AAAAAAFt5P1T2OEMvPU="
 									},
 									"font": "Arial;13;0",
-									"left": 719,
-									"top": 340,
+									"left": 624,
+									"top": 327,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 2.8803164295020967,
-									"distance": 77.00649323271382,
+									"alpha": -0.9644048679845114,
+									"distance": 24.20743687382041,
 									"hostEdge": {
 										"$ref": "AAAAAAFt5P1T2OEOW8w="
 									},
@@ -10417,11 +10417,11 @@
 									},
 									"font": "Arial;13;0",
 									"left": 568,
-									"top": 431,
+									"top": 423,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": -1.7818892266217818,
-									"distance": 42.95346318982906,
+									"alpha": -1.5946009626988609,
+									"distance": 42.01190307520001,
 									"hostEdge": {
 										"$ref": "AAAAAAFt5P1vouHsIRU="
 									},
