@@ -1927,17 +1927,17 @@
 												"$ref": "AAAAAAFuiPK0DDIxK3M="
 											},
 											"font": "Arial;13;0",
-											"left": 520,
-											"top": 421,
-											"width": 432.8720703125,
+											"left": 488,
+											"top": 447,
+											"width": 503.69921875,
 											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 15,
+											"alpha": 1.6183796676284383,
+											"distance": 42.04759208325728,
 											"hostEdge": {
 												"$ref": "AAAAAAFuiPK0DDIyxcg="
 											},
 											"edgePosition": 1,
-											"text": "Se emite un Dictamen o se agota el número de suspensiones o Audiencias"
+											"text": "Emición o no de un Dictamen o agotamiento del número de suspensiones o Audiencias"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2193,101 +2193,6 @@
 								},
 								{
 									"_type": "UMLControlFlowView",
-									"_id": "AAAAAAFuiPWlmTJ6Lws=",
-									"_parent": {
-										"$ref": "AAAAAAFuiO8bEDF40T8="
-									},
-									"model": {
-										"$ref": "AAAAAAFuiPWlmTJ5LGg="
-									},
-									"subViews": [
-										{
-											"_type": "EdgeLabelView",
-											"_id": "AAAAAAFuiPWlmTJ7STk=",
-											"_parent": {
-												"$ref": "AAAAAAFuiPWlmTJ6Lws="
-											},
-											"model": {
-												"$ref": "AAAAAAFuiPWlmTJ5LGg="
-											},
-											"font": "Arial;13;0",
-											"left": 648,
-											"top": 352,
-											"width": 145.95166015625,
-											"height": 13,
-											"alpha": 1.0706395758762857,
-											"distance": 34.655446902326915,
-											"hostEdge": {
-												"$ref": "AAAAAAFuiPWlmTJ6Lws="
-											},
-											"edgePosition": 1,
-											"text": "No se emite un Dictamen"
-										},
-										{
-											"_type": "EdgeLabelView",
-											"_id": "AAAAAAFuiPWlmTJ8Gg0=",
-											"_parent": {
-												"$ref": "AAAAAAFuiPWlmTJ6Lws="
-											},
-											"model": {
-												"$ref": "AAAAAAFuiPWlmTJ5LGg="
-											},
-											"visible": null,
-											"font": "Arial;13;0",
-											"left": 736,
-											"top": 356,
-											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 30,
-											"hostEdge": {
-												"$ref": "AAAAAAFuiPWlmTJ6Lws="
-											},
-											"edgePosition": 1
-										},
-										{
-											"_type": "EdgeLabelView",
-											"_id": "AAAAAAFuiPWlmTJ9f0s=",
-											"_parent": {
-												"$ref": "AAAAAAFuiPWlmTJ6Lws="
-											},
-											"model": {
-												"$ref": "AAAAAAFuiPWlmTJ5LGg="
-											},
-											"visible": false,
-											"font": "Arial;13;0",
-											"left": 749,
-											"top": 313,
-											"height": 13,
-											"alpha": -1.5707963267948966,
-											"distance": 15,
-											"hostEdge": {
-												"$ref": "AAAAAAFuiPWlmTJ6Lws="
-											},
-											"edgePosition": 1
-										}
-									],
-									"font": "Arial;13;0",
-									"head": {
-										"$ref": "AAAAAAFuiPApMTGEU3A="
-									},
-									"tail": {
-										"$ref": "AAAAAAFuiPGAxDHiSSU="
-									},
-									"lineStyle": 1,
-									"points": "967:400;523:268",
-									"showVisibility": true,
-									"nameLabel": {
-										"$ref": "AAAAAAFuiPWlmTJ7STk="
-									},
-									"stereotypeLabel": {
-										"$ref": "AAAAAAFuiPWlmTJ8Gg0="
-									},
-									"propertyLabel": {
-										"$ref": "AAAAAAFuiPWlmTJ9f0s="
-									}
-								},
-								{
-									"_type": "UMLControlFlowView",
 									"_id": "AAAAAAFuiPYwdjKP0ms=",
 									"_parent": {
 										"$ref": "AAAAAAFuiO8bEDF40T8="
@@ -2483,7 +2388,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFuiO8bEDF32bk="
 							},
-							"name": "Se emite un Dictamen o se agota el número de suspensiones o Audiencias",
+							"name": "Emición o no de un Dictamen o agotamiento del número de suspensiones o Audiencias",
 							"source": {
 								"$ref": "AAAAAAFuiPGAxDHgBJI="
 							},
