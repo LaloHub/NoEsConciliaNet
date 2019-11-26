@@ -4110,6 +4110,19 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAFt5dbC1+feLeY="
 							}
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFuoNl3qeRJTSQ=",
+							"_parent": {
+								"$ref": "AAAAAAFtzhfTRcibPbg="
+							},
+							"font": "Arial;20;0",
+							"left": 504,
+							"top": 56,
+							"width": 153,
+							"height": 32,
+							"text": "ProConciliación"
 						}
 					]
 				},
@@ -7216,6 +7229,19 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAFt5PGFEti53tQ="
 							}
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFuoNlYcON4QAg=",
+							"_parent": {
+								"$ref": "AAAAAAFt5O2txdLcGTk="
+							},
+							"font": "Arial;20;0",
+							"left": 776,
+							"top": 176,
+							"width": 153,
+							"height": 32,
+							"text": "ProConciliación"
 						}
 					]
 				},
@@ -13820,6 +13846,19 @@
 							"propertyLabel": {
 								"$ref": "AAAAAAFt67ZNSnI90Nc="
 							}
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAFuoNdo3dgrqoc=",
+							"_parent": {
+								"$ref": "AAAAAAFt5PVxH91aVPs="
+							},
+							"font": "Arial;20;0",
+							"left": 744,
+							"top": 144,
+							"width": 153,
+							"height": 32,
+							"text": "ProConciliación"
 						}
 					]
 				},
